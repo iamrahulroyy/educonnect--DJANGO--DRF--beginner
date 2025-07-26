@@ -1,0 +1,73 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Env
+.env
+.env.*
+
+# Virtualenv
+venv/
+env/
+ENV/
+.venv/
+pip-selfcheck.json
+
+# Django Migrations
+**/migrations/
+!*/migrations/__init__.py
+
+# SQLite Database
+*.sqlite3
+
+# PostgreSQL Dump
+*.dump
+*.sql
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Static & Media (generated files)
+staticfiles/
+media/
+static/
+
+# Coverage / testing
+.coverage
+htmlcov/
+coverage.xml
+pytest_cache/
+.pytest_cache/
+.tox/
+.nox/
+
+# MyPy / Pyright
+.mypy_cache/
+.pytype/
+.dmypy.json
+.pyre/
+
+# Build / dist
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Backup files
+*.bak
+*.swp
+*.tmp
+
+# Node (if using for frontend)
+node_modules/
