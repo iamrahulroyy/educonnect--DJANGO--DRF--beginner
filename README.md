@@ -1,1 +1,1 @@
-This is a old project I created in my initial learning days thought of sharing to github (pardon unreadable codes)
+This is a old project I created in my initial learning days thought of sharing to github (pardon unreadable codes). This is a fun made project done in my college life just pushed it as it was in my local machine
